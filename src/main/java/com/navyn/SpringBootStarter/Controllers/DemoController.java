@@ -1,4 +1,4 @@
-package com.navyn.SpringBootStarter;
+package com.navyn.SpringBootStarter.Controllers;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
